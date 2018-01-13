@@ -1,0 +1,4 @@
+fabricanteA <- c(10.01, 10.01, 9.98, 9.99, 10.02, 9.99)
+fabricanteB <- c(10.01, 10.01, 9.98, 9.99, 10.02, 9.99)
+dotchart(fabricanteA,xlim = c(9.8,10.2))
+dotchart(fabricanteB,xlim = c(9.8,10.2))
